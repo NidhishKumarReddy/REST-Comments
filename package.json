@@ -1,0 +1,29 @@
+{
+  "name": "rest-comments",
+  "version": "1.0.0",
+  "description": "REST Comments \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DCRUD\u001b[C\u001b[C\u001b[ Functionality Usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NidhishKumarReddy/REST-Comments.git"
+  },
+  "keywords": [
+    "node.js",
+    "REST"
+  ],
+  "author": "Nidhish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NidhishKumarReddy/REST-Comments/issues"
+  },
+  "homepage": "https://github.com/NidhishKumarReddy/REST-Comments#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "uuid": "^8.3.2"
+  }
+}
